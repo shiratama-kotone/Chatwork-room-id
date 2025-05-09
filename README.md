@@ -5,6 +5,7 @@
 
 ## グルチャの抜け方
 ①webでChatworkを開く(スマホの人はデスクトップ用にする)<br>
+![①](https://github.com/shiratama-kotone/Chatwork-room-id/blob/main/1.png?raw=true)
 ②右上の自分のアイコンと名前があるとこを押す。<br>
 ③サービス連携を押す<br>
 ④APIトークンを押して英数字の文字列をコピーする(誰にも教えちゃダメ！)<br>
