@@ -16,5 +16,8 @@
 ![⑤](https://github.com/shiratama-kotone/Chatwork-room-id/blob/main/6.png?raw=true)
 ⑥room_id に抜けたい部屋のIDを入れる(ルームIDはパソコンならリンクの#!ridのあとの9桁の数字、スマホは右上の︙を押して、チャット情報を押して、グルチャの名前の下にある ルームID : のあとの9桁の数字)<br>
 ![⑥](https://github.com/shiratama-kotone/Chatwork-room-id/blob/main/5.png?raw=true)
+![⑥](https://github.com/shiratama-kotone/Chatwork-room-id/blob/main/7.png?raw=true)
 ⑦CREDENTIALSにさっきコピーしたAPIトークンを入れる<br>
+![⑦](https://github.com/shiratama-kotone/Chatwork-room-id/blob/main/10.png?raw=true)
 ⑧Try itを押す<br>
+![⑧](https://github.com/shiratama-kotone/Chatwork-room-id/blob/main/11.png?raw=true)
